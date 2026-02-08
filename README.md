@@ -4,10 +4,10 @@ I ❤️ AI & Machine Learning • Curious Student Exploring Theory, Innovation,
 </h4>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrathamRajendraPednekar&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/stars/PrathamRajendraPednekar?label=Stars&style=flat&color=yellow" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.youtube.com/@PrathamPednekar">
