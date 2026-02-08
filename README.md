@@ -7,6 +7,24 @@
   <img src="https://img.shields.io/github/stars/PrathamRajendraPednekar?label=Stars&style=flat&color=yellow" />
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/@yourchannel">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/yourinvite">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:prathampednekar1985@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pratham-pednekar-1881822b5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ### 🎯 Field of Interests
@@ -67,7 +85,7 @@ Mumbai University (2020 — 2023)
   AI-based home surveillance system using computer vision and motion detection for real-time security monitoring  
 
 - **Hotel Review Sentiment Analysis**  
-  NLP-based sentiment analysis system using text preprocessing and machine learning techniques  
+  NLP-based system to classify hotel reviews using text preprocessing and machine learning techniques  
 
 - **David AI**  
   AI-powered virtual assistant focused on task automation, conversational flow, and user interaction  
@@ -97,10 +115,10 @@ Mumbai University (2020 — 2023)
 
 ---
 
-## 🏆 Highlights
+## 🏆 Achievements
 - Built multiple end-to-end AI, NLP, and Computer Vision projects  
-- Strong academic and hands-on foundation in AI & Data Analytics  
-- Experience working with real-world datasets and intelligent systems  
+- Strong academic and practical foundation in AI & data analytics  
+- Hands-on experience with real-world datasets and intelligent systems  
 
 ---
 
