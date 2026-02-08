@@ -6,7 +6,6 @@ I ❤️ AI & Machine Learning • Curious Student Exploring Theory, Innovation,
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrathamRajendraPednekar&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/PrathamRajendraPednekar?label=Followers&style=flat&color=blue" />
   <img src="https://img.shields.io/github/stars/PrathamRajendraPednekar?label=Stars&style=flat&color=yellow" />
 </p>
 
