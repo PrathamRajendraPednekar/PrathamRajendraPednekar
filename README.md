@@ -1,5 +1,8 @@
 <h1 align="center">Hi, my name is Pratham 👋</h1>
-<h3 align="center">I ❤️ AI, Machine Learning & Problem Solving</h3>
+<h3 align="center">
+I ❤️ AI, Machine Learning & Problem Solving • Turning Ideas into Real-World Projects
+</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrathamRajendraPednekar&label=Profile%20Views&color=0e75b6&style=flat" />
