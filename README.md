@@ -1,83 +1,90 @@
-Hi, my name is Pratham 👋 and I ❤️ AI, Software & Problem Solving  
+Hi, my name is Pratham 👋 and I ❤️ AI, Machine Learning & Problem Solving  
 
 **Field of interests:**  
-AI, Machine Learning, Computer Vision, Human–Computer Interaction, Software Development  
+Artificial Intelligence, Machine Learning, Computer Vision, NLP, Data Analytics, Human–Computer Interaction  
 
 ---
 
 ### 📬 My socials
 - GitHub: https://github.com/PrathamRajendraPednekar  
-- LinkedIn: https://linkedin.com/in/your-linkedin  
-- Email: your-email@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/pratham-pednekar-1881822b5  
+- Email: prathampednekar1985@gmail.com  
 
 ---
 
 ## 🛠️ Skills
-**Languages:**  
-Python, C, Java  
+**Programming & Databases:**  
+Python, SQL  
 
-**AI / ML / CV:**  
-OpenCV, MediaPipe, NumPy, Pandas, TensorFlow (Basics), Scikit-learn  
+**AI / ML / NLP / CV:**  
+Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras, Hugging Face, OpenCV  
 
-**Development & Tools:**  
-Git, GitHub, VS Code, Jupyter Notebook  
+**Data Analysis & Visualization:**  
+Power BI, Tableau, MS Excel, Matplotlib, Seaborn, Plotly  
+
+**Tools & Technologies:**  
+Git, GitHub, Google Colab, Jupyter Notebook, HTML/CSS  
+
+**Soft Skills:**  
+Problem Solving, Communication, Teamwork, Leadership, Critical Thinking, Data-Driven Decision Making  
 
 ---
 
 ## 👔 Experience
 | Role | Organization | Field | Work Period |
 |----|----|----|----|
-| Student Developer | Academic Projects | AI, CV, Software | 2023 — Present |
-| Project Developer | Gesture Recognition System | Computer Vision | 2024 |
-| Mini Project Contributor | College Labs | Python, ML | 2023 |
+| UI/UX Design Intern | NSMEDIA Solutions | UI/UX, Design Thinking | Jul 2022 — Aug 2022 |
 
 ---
 
 ## 🎓 Education
-**Bachelor’s Degree (Engineering / Technology)**  
-Your College Name (2022 — Present)
+**Integrated MBA + B.Tech (Computer Engineering)**  
+NMIMS University (2024 — 2028)  
+
+**Diploma in Computer Engineering**  
+Mumbai University (2020 — 2023)  
 
 ---
 
 ## 🐾 Projects
-- **Hand Gesture Recognition System**  
-  Real-time hand gesture detection using MediaPipe & OpenCV  
+- **SafeHomeCam**  
+  AI-based home surveillance system using computer vision and motion detection for real-time security monitoring.  
 
-- **Gesture-Based Interaction System**  
-  Touchless interaction for system control and UI navigation  
+- **Hotel Review Sentiment Analysis**  
+  NLP-based system to classify hotel reviews using text preprocessing and machine learning techniques.  
 
-- **Python Mini Projects**  
-  Automation scripts and data-processing tools  
-
-- **EDA & Visualization Projects**  
-  Data analysis using Matplotlib and Pandas  
+- **David AI**  
+  AI-powered virtual assistant focused on task automation, conversational flow, and user interaction.  
 
 ---
 
 ## 🗣 Public Work / Presentations
-- Project demo presentations for academic evaluations  
-- Gesture-based system demonstrations  
-- Technical explanations of AI & CV workflows  
+- Academic project demonstrations  
+- AI & ML project explanations during evaluations  
+- Technical walkthroughs of computer vision and NLP systems  
 
 ---
 
-## 📜 Certifications
-- Python Programming (Online / Academic)  
-- Machine Learning Fundamentals  
-- Data Analysis with Python  
+## 📜 Certifications & Achievements
+- Smart India Hackathon (SIH) 2025 – Selected at College Level (Round 1)  
+- Generative AI with Large Language Models – Coursera  
+- Data Analyst Certification – ExcelR Solutions  
+- Prompt Engineering for Everyone – IBM Cognitive Class  
+- Cybersecurity Job Simulation – JPMorgan Chase (Forage)  
+- Accounting Fundamentals – TCS iON  
 
 ---
 
 ## 💻 Hackathons / Activities
-- College-level project competitions  
-- Technical workshops & seminars  
+- Smart India Hackathon 2025 (College-level selection)  
+- Technical workshops and AI/ML seminars  
 
 ---
 
 ## 🏆 Achievements
-- Successfully built real-time gesture recognition system  
-- Completed multiple AI & software mini-projects  
-- Strong academic project portfolio  
+- Built multiple end-to-end AI, NLP, and Computer Vision projects  
+- Strong academic and practical foundation in AI & data analytics  
+- Hands-on experience with real-world datasets and intelligent systems  
 
 ---
 
