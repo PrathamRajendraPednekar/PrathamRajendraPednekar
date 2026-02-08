@@ -1,6 +1,6 @@
 <h1 align="center">Hi, my name is Pratham 👋</h1>
 <h3 align="center">
-I ❤️ AI, Machine Learning & Problem Solving • Turning Ideas into Real-World Projects
+I ❤️ AI & Machine Learning • Curious Student Exploring Theory, Innovation, and Real-World Applications of Intelligent Systems
 </h3>
 
 
