@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is Pratham 👋</h1>
-<h3 align="center">
+<h4 align="center">
 I ❤️ AI & Machine Learning • Curious Student Exploring Theory, Innovation, and Real-World Applications of Intelligent Systems
-</h3>
+</h4>
 
 
 <p align="center">
