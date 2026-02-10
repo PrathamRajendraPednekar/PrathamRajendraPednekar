@@ -27,7 +27,7 @@ I ❤️ AI & Machine Learning • Curious Student Exploring Theory, Innovation,
 ---
 
 ### 🎯 Field of Interests
-Artificial Intelligence, Machine Learning, Computer Vision, NLP,  
+Artificial Intelligence, Machine Learning, Data Science, Generativ AI, Computer Vision, NLP,  
 Data Analytics, Human–Computer Interaction  
 
 ---
