@@ -121,21 +121,4 @@ Mumbai University (2020 — 2023)
 
 ---
 
-## ⭐ GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PrathamRajendraPednekar/PrathamRajendraPednekar/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PrathamRajendraPednekar/PrathamRajendraPednekar/main/profile-summary-card-output/nord_dark/3-stats.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PrathamRajendraPednekar/PrathamRajendraPednekar/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
-</p>
-
-
-
-
 🚀 **More information on my LinkedIn**
