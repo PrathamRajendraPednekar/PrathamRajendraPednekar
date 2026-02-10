@@ -127,10 +127,6 @@ Mumbai University (2020 — 2023)
  <img src="https://streak-stats.demolab.com?user=PrathamRajendraPednekar&theme=dark&cache_seconds=1800" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrathamRajendraPednekar&theme=dark" />
-</p>
-
 ---
 
 🚀 **More information on my LinkedIn**
