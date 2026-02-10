@@ -32,13 +32,6 @@ Computer Vision, NLP,  Data Analytics, Human–Computer Interaction
 
 ---
 
-### 📬 My Socials
-- 🔗 GitHub: https://github.com/PrathamRajendraPednekar  
-- 💼 LinkedIn: https://www.linkedin.com/in/pratham-pednekar-1881822b5  
-- 📧 Email: prathampednekar1985@gmail.com  
-
----
-
 ## 🛠️ Skills
 
 **Programming & Databases:**  
