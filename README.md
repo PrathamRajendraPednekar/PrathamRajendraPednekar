@@ -124,9 +124,12 @@ Mumbai University (2020 — 2023)
 ## ⭐ GitHub Stats
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=PrathamRajendraPednekar&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathamRajendraPednekar&show_icons=true&theme=github_dark&hide_border=true&card_width=500" />
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PrathamRajendraPednekar&theme=github-dark-blue&hide_border=true&card_width=500&cache_seconds=1800" />
+</p>
+
 
 🚀 **More information on my LinkedIn**
