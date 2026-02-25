@@ -1,4 +1,11 @@
 <h1 align="center">Hi, my name is Pratham 👋</h1>
+
+<p align="center">
+  <img src="https://github.com/PrathamRajendraPednekar/PrathamRajendraPednekar/blob/main/Pratham%20Pednekar.png" 
+       alt="AI Illustration" 
+       width="400"/>
+</p>
+
 <h4 align="center">
 I ❤️ AI & Machine Learning • Curious Student Exploring Theory, Innovation, and Real-World Applications of Intelligent Systems
 </h4>
