@@ -1,5 +1,4 @@
-<h1 align="center-left">Hi there 👋</h1>
-
+# Hi, I'm Pratham 👋 👩🏾‍💻
 <p align="center">
   <img src="https://github.com/PrathamRajendraPednekar/PrathamRajendraPednekar/blob/main/Pratham%20Pednekar.png" 
        alt="Pratham Pednekar Banner" 
