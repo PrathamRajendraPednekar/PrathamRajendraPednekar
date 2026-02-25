@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/PrathamRajendraPednekar/PrathamRajendraPednekar/blob/main/Pratham%20Pednekar.png" 
        alt="AI Illustration" 
-       width="400"/>
+       width="800"/>
 </p>
 
 <h4 align="center">
