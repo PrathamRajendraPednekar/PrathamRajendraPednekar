@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/PrathamRajendraPednekar/PrathamRajendraPednekar/blob/main/Pratham%20Pednekar.png" 
        alt="Pratham Pednekar Banner" 
-       width="900"/>
+       width="1000"/>
 </p>
 
 <h3 align="center">I ❤️ AI & Machine Learning</h3>
