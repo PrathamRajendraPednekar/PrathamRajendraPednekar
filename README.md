@@ -1,23 +1,25 @@
-<h1 align="center">Hi there 👋</h1>
-
-<p align="center">
-  <img src="https://github.com/PrathamRajendraPednekar/PrathamRajendraPednekar/blob/main/Pratham%20Pednekar.png" 
-       alt="Pratham Pednekar Banner" 
-       width="900"/>
-</p>
-
-<h3 align="center">
-I ❤️ AI & Machine Learning
-</h3>
-
-<p align="center">
-Curious Student Exploring Theory, Innovation, and Real-World Applications of Intelligent Systems
-</p>
+<h2 align="center">Hi there 👋</h2>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Exploring+Intelligent+Systems;Future+Machine+Learning+Engineer" />
+  <img src="https://github.com/PrathamRajendraPednekar/PrathamRajendraPednekar/blob/main/Pratham%20Pednekar.png" 
+       alt="Pratham Pednekar Banner" 
+       width="850"/>
+</p>
+
+<br>
+
+<h3 align="center">I ❤️ AI & Machine Learning</h3>
+
+<p align="center">
+  Curious Student Exploring Theory, Innovation, and Real-World Applications of Intelligent Systems
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast;Exploring+Intelligent+Systems;🚀+Future+Machine+Learning+Engineer" />
 </p>
 
 <!-- <p align="center">
