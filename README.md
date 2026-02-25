@@ -1,9 +1,9 @@
-<h1 align="center">Hi, my name is Pratham 👋</h1>
+<h1 align="center">Hi,there👋</h1>
 
 <p align="center">
   <img src="https://github.com/PrathamRajendraPednekar/PrathamRajendraPednekar/blob/main/Pratham%20Pednekar.png" 
        alt="AI Illustration" 
-       width="800"/>
+       width="900"/>
 </p>
 
 <h4 align="center">
