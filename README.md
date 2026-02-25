@@ -1,14 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
 
-<br>
-
 <p align="center">
   <img src="https://github.com/PrathamRajendraPednekar/PrathamRajendraPednekar/blob/main/Pratham%20Pednekar.png" 
        alt="Pratham Pednekar Banner" 
        width="850"/>
 </p>
-
-<br>
 
 <h3 align="center">I ❤️ AI & Machine Learning</h3>
 
