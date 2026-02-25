@@ -1,4 +1,4 @@
-<h1 align="center">Hi,there👋</h1>
+<h1 align="left">Hi,there👋</h1>
 
 <p align="center">
   <img src="https://github.com/PrathamRajendraPednekar/PrathamRajendraPednekar/blob/main/Pratham%20Pednekar.png" 
