@@ -1,14 +1,18 @@
-<h1 align="left">Hi,there👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   <img src="https://github.com/PrathamRajendraPednekar/PrathamRajendraPednekar/blob/main/Pratham%20Pednekar.png" 
-       alt="AI Illustration" 
+       alt="Pratham Pednekar Banner" 
        width="900"/>
 </p>
 
-<h4 align="center">
-I ❤️ AI & Machine Learning • Curious Student Exploring Theory, Innovation, and Real-World Applications of Intelligent Systems
-</h4>
+<h3 align="center">
+I ❤️ AI & Machine Learning
+</h3>
+
+<p align="center">
+Curious Student Exploring Theory, Innovation, and Real-World Applications of Intelligent Systems
+</p>
 
 
 <!-- <p align="center">
