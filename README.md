@@ -14,6 +14,11 @@ I ❤️ AI & Machine Learning
 Curious Student Exploring Theory, Innovation, and Real-World Applications of Intelligent Systems
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Exploring+Intelligent+Systems;Future+Machine+Learning+Engineer" />
+</p>
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrathamRajendraPednekar&label=Profile%20Views&color=0e75b6&style=flat" />
