@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95" height="32" viewBox="0 0 95 32" fill="none">
+  <defs>
+    <linearGradient id="gm-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ea4335"/>
+      <stop offset="100%" stop-color="#c53023"/>
+    </linearGradient>
+  </defs>
+  <rect width="95" height="32" rx="6" fill="url(#gm-grad)"/>
+  <g transform="translate(10, 8) scale(0.6667)">
+    <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" fill="white"/>
+  </g>
+  <text x="34" y="20" fill="white" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Gmail</text>
+</svg>
