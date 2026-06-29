@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pratham-pednekar-1881822b5" target="_blank"><img src=".github/social/linkedin.svg" width="115" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@PrathamPednekar" target="_blank"><img src=".github/social/youtube.svg" width="115" height="32" alt="YouTube" /></a>&nbsp;&nbsp;
-  <a href="mailto:prathampednekar1985@gmail.com"><img src=".github/social/gmail.svg" width="100" height="32" alt="Gmail" /></a>&nbsp;&nbsp;
+  <a href="mailto:prathampednekar1975@gmail.com"><img src=".github/social/gmail.svg" width="100" height="32" alt="Gmail" /></a>&nbsp;&nbsp;
   <a href="https://discord.gg/796381565721772032" target="_blank"><img src=".github/social/discord.svg" width="115" height="32" alt="Discord" /></a>&nbsp;&nbsp;
   <a href="https://my-website-7195.onrender.com/" target="_blank"><img src=".github/social/portfolio.svg" width="120" height="32" alt="Portfolio" /></a>
 </p>
