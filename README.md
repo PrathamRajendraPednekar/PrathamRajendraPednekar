@@ -123,13 +123,15 @@ Mumbai University (2020 — 2023)
 
 ---
 
-## ⭐ GitHub Stats
+## ⭐ GitHub Stats & Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.devomb.com/?username=PrathamRajendraPednekar&theme=onedark&column=5" alt="GitHub Profile Trophies" />
-  </a>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85" height="85" alt="YOLO Achievement" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" height="85" alt="Quickdraw Achievement" />
 </p>
+
+<br>
 
 <p align="center">
   <table>
