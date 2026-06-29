@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="115" height="32" viewBox="0 0 115 32" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="32" viewBox="0 0 120 32" fill="none">
   <defs>
     <linearGradient id="yt-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ff0000"/>
       <stop offset="100%" stop-color="#cc0000"/>
     </linearGradient>
   </defs>
-  <rect width="115" height="32" rx="6" fill="url(#yt-grad)"/>
-  <g transform="translate(10, 8) scale(0.6667)">
+  <rect width="120" height="32" rx="6" fill="url(#yt-grad)"/>
+  <g transform="translate(12, 6.5) scale(0.85)">
     <path d="M20.5 7.8s-.2-1.4-.8-2c-.78-.82-1.65-.82-2.05-.87C15.08 4.75 12 4.75 12 4.75s-3.08 0-5.65.18c-.4.05-1.27.05-2.05.87-.6.6-.8 2-.8 2S3.3 9.4 3.3 11v1.5c0 1.6.2 3.2.2 3.2s.2 1.4.8 2c.78.82 1.8.8 2.26.88C7.8 18.75 12 18.75 12 18.75s3.08 0 5.65-.2c.4-.05 1.27-.06 2.05-.88.6-.6.8-2 .8-2s.2-1.6.2-3.2V11c0-1.6-.2-3.2-.2-3.2zm-12.2 6.5V9.7l5.5 2.3-5.5 2.3z" fill="white"/>
   </g>
-  <text x="34" y="20.5" fill="white" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">YouTube</text>
+  <text x="38" y="21" fill="white" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="bold">YouTube</text>
 </svg>
