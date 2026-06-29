@@ -127,15 +127,15 @@ Mumbai University (2020 — 2023)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.devomb.com/?username=PrathamRajendraPednekar&theme=onedark&title=Commits,Experience,Repositories&column=3&row=1&cb=1782752530" width="480" alt="GitHub Profile Trophies" />
+    <img src="https://github-trophies.devomb.com/?username=PrathamRajendraPednekar&theme=onedark&title=Commits,Experience,Repositories&column=3&row=1&cb=1782753700" width="480" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
 <p align="center">
   <table>
     <tr>
-      <td valign="top"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamRajendraPednekar&theme=github_dark&cb=1782752530" height="195" alt="GitHub Stats" /></td>
-      <td valign="top"><img src="https://streak-stats.demolab.com?user=PrathamRajendraPednekar&theme=github_dark&hide_border=true&cache_seconds=1800&cb=1782752530" height="195" alt="GitHub Streak Stats" /></td>
+      <td valign="top"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamRajendraPednekar&theme=github_dark&cb=1782753700" height="195" alt="GitHub Stats" /></td>
+      <td valign="top"><img src="https://streak-stats.demolab.com?user=PrathamRajendraPednekar&theme=github_dark&hide_border=true&cache_seconds=1800&cb=1782753700" height="195" alt="GitHub Streak Stats" /></td>
     </tr>
   </table>
 </p>
