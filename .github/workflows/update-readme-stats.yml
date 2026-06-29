@@ -1,0 +1,28 @@
+name: Update README Cache Buster
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'README.md'
+      - '.github/workflows/**'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Cache Buster in README
+        run: |
+          sed -i -E 's/cb=[0-9]+/cb='$(date +%s)'/g' README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff-index --quiet HEAD || git commit -m "chore(readme): update stats cache buster [skip ci]"
+          git push
