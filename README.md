@@ -17,11 +17,11 @@
 </p> -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratham-pednekar-1881822b5" target="_blank"><img src=".github/assets/linkedin.svg" width="110" height="100" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@PrathamPednekar" target="_blank"><img src=".github/assets/youtube.svg" width="110" height="100" alt="YouTube" /></a>&nbsp;&nbsp;
-  <a href="mailto:prathampednekar1985@gmail.com"><img src=".github/assets/gmail.svg" width="110" height="100" alt="Gmail" /></a>&nbsp;&nbsp;
-  <a href="https://discord.gg/796381565721772032" target="_blank"><img src=".github/assets/discord.svg" width="110" height="100" alt="Discord" /></a>&nbsp;&nbsp;
-  <a href="https://my-website-7195.onrender.com/" target="_blank"><img src=".github/assets/portfolio.svg" width="110" height="100" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/pratham-pednekar-1881822b5" target="_blank"><img src=".github/badges/linkedin.svg" width="120" height="36" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@PrathamPednekar" target="_blank"><img src=".github/badges/youtube.svg" width="120" height="36" alt="YouTube" /></a>&nbsp;&nbsp;
+  <a href="mailto:prathampednekar1985@gmail.com"><img src=".github/badges/gmail.svg" width="120" height="36" alt="Gmail" /></a>&nbsp;&nbsp;
+  <a href="https://discord.gg/796381565721772032" target="_blank"><img src=".github/badges/discord.svg" width="120" height="36" alt="Discord" /></a>&nbsp;&nbsp;
+  <a href="https://my-website-7195.onrender.com/" target="_blank"><img src=".github/badges/portfolio.svg" width="120" height="36" alt="Portfolio" /></a>
 </p>
 
 
