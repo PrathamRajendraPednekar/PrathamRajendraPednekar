@@ -17,11 +17,11 @@
 </p> -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratham-pednekar-1881822b5" target="_blank"><img src=".github/social/linkedin.svg" width="110" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@PrathamPednekar" target="_blank"><img src=".github/social/youtube.svg" width="110" height="32" alt="YouTube" /></a>&nbsp;&nbsp;
-  <a href="mailto:prathampednekar1985@gmail.com"><img src=".github/social/gmail.svg" width="95" height="32" alt="Gmail" /></a>&nbsp;&nbsp;
-  <a href="https://discord.gg/796381565721772032" target="_blank"><img src=".github/social/discord.svg" width="110" height="32" alt="Discord" /></a>&nbsp;&nbsp;
-  <a href="https://my-website-7195.onrender.com/" target="_blank"><img src=".github/social/portfolio.svg" width="115" height="32" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/pratham-pednekar-1881822b5" target="_blank"><img src=".github/social/linkedin.svg" width="115" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@PrathamPednekar" target="_blank"><img src=".github/social/youtube.svg" width="115" height="32" alt="YouTube" /></a>&nbsp;&nbsp;
+  <a href="mailto:prathampednekar1985@gmail.com"><img src=".github/social/gmail.svg" width="100" height="32" alt="Gmail" /></a>&nbsp;&nbsp;
+  <a href="https://discord.gg/796381565721772032" target="_blank"><img src=".github/social/discord.svg" width="115" height="32" alt="Discord" /></a>&nbsp;&nbsp;
+  <a href="https://my-website-7195.onrender.com/" target="_blank"><img src=".github/social/portfolio.svg" width="120" height="32" alt="Portfolio" /></a>
 </p>
 
 
@@ -57,9 +57,13 @@ Critical Thinking, Data-Driven Decision Making
 
 ## 👔 Experience
 
-| Role | Organization | Field | Work Period |
-|----|----|----|----|
-| UI/UX Design Intern | NSMEDIA Solutions | UI/UX, Design Thinking | Jul 2022 — Aug 2022 |
+- **AI/ML Intern** | **KENMARK ITAN Solutions** (*May 2026 — Jul 2026*)  
+  *AI/ML, Next.js, AI Tools*  
+  Gained hands-on experience building intelligent applications using modern AI/ML tools and frameworks during the internship. Successfully developed and deployed multiple AI-powered projects while leveraging Next.js for scalable, production-ready web solutions.
+
+- **UI/UX Design Intern** | **NSMEDIA Solutions** (*Jul 2022 — Aug 2022*)  
+  *UI/UX, Design Thinking*  
+  Assisted in user research, wireframing, and interactive prototyping to improve digital product interfaces.
 
 ---
 
@@ -75,14 +79,17 @@ Mumbai University (2020 — 2023)
 
 ## 🐾 Projects
 
+- **CityShelf**  
+  Premium, dark-themed local business directory designed to discover, save, and explore local shops and services, featuring interactive Leaflet maps, SQLite/Prisma DB, NextAuth-backed authentication, and Framer Motion transitions.
+
 - **SafeHomeCam**  
-  AI-based home surveillance system using computer vision and motion detection for real-time security monitoring  
+  AI-based home surveillance system using computer vision and motion detection for real-time security monitoring.
 
 - **Hotel Review Sentiment Analysis**  
-  NLP-based system to classify hotel reviews using text preprocessing and machine learning techniques  
+  NLP-based system to classify hotel reviews using text preprocessing and machine learning techniques.
 
 - **David AI**  
-  AI-powered virtual assistant focused on task automation, conversational flow, and user interaction  
+  AI-powered virtual assistant focused on task automation, conversational flow, and user interaction.  
 
 ---
 
