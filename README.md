@@ -29,6 +29,9 @@
   <a href="https://discord.gg/796381565721772032">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+  <a href="https://my-website-7195.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
